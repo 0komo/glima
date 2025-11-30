@@ -1,0 +1,6 @@
+[submodule "vendor/gleam"]
+	path = vendor/gleam
+	url = https://github.com/gleam-lang/gleam
+[submodule "vendor/gleam_stdlib"]
+	path = vendor/gleam_stdlib
+	url = https://github.com/gleam-lang/stdlib

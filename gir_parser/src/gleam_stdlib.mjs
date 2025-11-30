@@ -1,0 +1,1 @@
+../../vendor/gleam_stdlib/src/gleam_stdlib.mjs
